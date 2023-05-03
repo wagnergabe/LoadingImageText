@@ -1,0 +1,1 @@
+#Create a blur effect for a background image
